@@ -10,7 +10,7 @@ export default function Imageupload(){
     <>
     <input type="file" name="file" onChange={handleImage}/>
     <button>Submit </button>
-    
+    {/* <div></div> */}
     </>
    
     );
